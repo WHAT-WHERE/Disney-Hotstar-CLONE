@@ -9,7 +9,7 @@ let movies = [
     name: "Ms. Marvel",
     des:
       "Kamala Khan, a Muslim American teen growing up in Jersey City, is a Superhero mega fan who discovers she has super powers.",
-    image: "images/Ms. Marvel.png"
+    image: "images/Ms.Marvel.png"
   },
   {
     name: "Obi-Wan Kenobi",
