@@ -3,37 +3,37 @@ let movies = [
     name: "Doctor Strange in the Multiverse of Madness",
     des:
       "When the multiverse is unlocked, Doctor Strange must enlist help from old and new allies in order to confront a surprising adversary.",
-    image: "Images/Doctor Strange.png"
+    image: "images/Doctor Strange.png"
   },
   {
     name: "Ms. Marvel",
     des:
       "Kamala Khan, a Muslim American teen growing up in Jersey City, is a Superhero mega fan who discovers she has super powers.",
-    image: "Images/Ms. Marvel.png"
+    image: "images/Ms. Marvel.png"
   },
   {
     name: "Obi-Wan Kenobi",
     des:
       "During the reign of the Empire, Obi-Wan Kenobi embarks on a crucial mission.",
-    image: "Images/Obi-Wan Kenobi.png"
+    image: "images/Obi-Wan Kenobi.png"
   },
   {
     name: "Link: Eat, Love, Kill",
     des:
       "When Eun Gye-hoon moves back to a familiar town, he finds himself experiencing strange emotions and realises he shares a conections with  a woman who lives there.",
-    image: "Images/Link.png"
+    image: "images/Link.png"
   },
   {
     name: "Kiss Sixth Sense",
     des:
       "Hong Ye-sool, an account executive at Zeu Ad, is making her way up at work, However, she has one secret: she can see the future when she kisses someone.",
-    image: "Images/Kiss.webp"
+    image: "images/Kiss.webp"
   },
   {
     name: "Doctor Lawyer",
     des:
       "Genius surgeon Han Yi-han makes a life-altering decision to become a lawyer specialising in medical crimes afer losing a patient to surgical malpractice",
-    image: "Images/Doctor-Lawyer.png"
+    image: "images/Doctor-Lawyer.png"
   }
 ];
 
